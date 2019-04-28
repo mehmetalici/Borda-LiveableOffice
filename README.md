@@ -6,7 +6,7 @@ IoT Application posting sensor data collected from LDR and Tilt Sensor via HTTP 
 #### [Click Here For Coffee Machine Demo](https://youtu.be/D4b68z6HlUw)
 
 
-## The Hardware Components
+## Hardware Components
 
 * TI CC3200 Microcontroller
 * 3x Light Dependent Resistors (LDRs)
