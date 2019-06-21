@@ -2,8 +2,8 @@
 IoT Application posting sensor data collected from LDR and Tilt Sensor via HTTP  on TI CC3200 microcontroller. The LDR measures coffee level and Tilt Sensor detects whether the bathroom stall is full or avaliable. 
 
 ## DEMOS
-#### [Click Here For Bathroom Stall Demo](https://www.youtube.com/watch?time_continue=44&v=wHzCii8UEfY)
-#### [Click Here For Coffee Machine Demo](https://youtu.be/D4b68z6HlUw)
+#### [Click Here For Bathroom Stall Demo](https://www.youtube.com/watch?v=wHzCii8UEfY)
+#### [Click Here For Coffee Machine Demo](https://www.youtube.com/watch?v=D4b68z6HlUw&feature=youtu.be)
 
 
 ## Hardware Components
